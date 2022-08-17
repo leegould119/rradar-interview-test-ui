@@ -20,7 +20,7 @@ You may also see any lint errors in the console.
 * I Have added pagination to the cards
 * Moved cards to seperate components components > Cards > `MovieCard` & `Cards`
 * pagination in in components > `CardPagination`
-* data has been moved to the folder `data`
+* app data has been moved to the folder `data`
 * there is a hook for the pagination in hooks > `Pagination`
 * utils has a function  `renderCharacterLength`
 * the cards are responsive and will show different grid layouts according to breakpoints 
