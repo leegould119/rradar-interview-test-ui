@@ -17,13 +17,12 @@ You may also see any lint errors in the console.
 ## Tech Test 
 ### `points`
 
-* Have added pagination to the cards
-* Moved cards to seperate components components > Cards > `MovieCard`
+* I Have added pagination to the cards
+* Moved cards to seperate components components > Cards > `MovieCard` & `Cards`
 * pagination in in components > `CardPagination`
-* data is in data
+* data has been moved to the folder `data`
 * there is a hook for the pagination in hooks > `Pagination`
 * utils has a function  `renderCharacterLength`
 * the cards are responsive and will show different grid layouts according to breakpoints 
-* I have stripped out semantic-ui in favor og material-ui 
-* have added a onclick event to the like button that toggles either green or red
-* I have not added any search or filtering, that shouldn't be an issue if needed  
+* I have stripped out semantic-ui in favour of material-ui 
+* have added a onclick event to the like button that toggles either green or red 
