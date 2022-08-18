@@ -26,3 +26,9 @@ You may also see any lint errors in the console.
 * the cards are responsive and will show different grid layouts according to breakpoints 
 * I have stripped out semantic-ui in favour of material-ui 
 * have added a onclick event to the like button that toggles either green or red 
+
+
+### docker command 
+
+- build -- docker build -t react-frontend:1.0.0-prod .
+- run -- docker run --rm -it --name web -p 3000:80 react-frontend:1.0.0-prod
